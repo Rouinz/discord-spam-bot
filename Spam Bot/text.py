@@ -1,0 +1,1 @@
+text = ['dawg', 'mom', 'gaysex','urmom']

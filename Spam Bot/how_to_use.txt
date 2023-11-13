@@ -1,0 +1,23 @@
+**HOW TO USE**
+1. REQUIREMENTS:
+- Requests library is needed
+- VS Code is needed (You can watch Youtube for further instruction on how to download the VS Code)
+- Python is needed (You need to download it from the extensions in VS Code and from their website. You can watch Youtube for further instruction.)
+2. HOW TO DOWNLOAD REQUESTS LIBRARY
+- Once you meet all the requirements, follow the steps below:
+STEP 1: Open Command Prompt
++, Press Window + R
+STEP 2: Type in "pip install requests" then press Enter
+3. HOW TO USE AND CONFIG:
+- To use the code you need your discord account's token and the link to your wanted channel.
+*HOW TO GET TOKEN AND CHANNEL LINK*
+Step 1: Log in with your account on the discord's website.
+Step 2: Select your wanted channel
+Step 3: Press Ctrl + Shift + I then type something in the chat. Their will be something called "messages" appears.
+Step 4: Click on the "messages"
+Step 5: In the "Header" tab, search "Request URL" and "Authorization". The "Request URL" stands for your wanted channel link, the "Authorization" stands for your discord account token. Copy both of them.
+Step 6: In the "config.py" file, you can change token and channel_link variables to your token and your channel link (You can also change counter to customize the time to repeat the code).
+
+***REMEMBER TO PUT THE TOKEN AND THE CHANNEL LINK INSIDE THE ''***
+- You can also change the text you want to display by modifying the "text.py" file, and remember to put the text inside the "". To put multiple texts use ','.
+- If you don't want your text to be showed randomly, you can change the rand variable to False in the "config.py" file.
