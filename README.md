@@ -1,2 +1,4 @@
 # discord-spam-bot
 spam bot, that's it
+# PLEASE READ THE HOW_TO_USE.TXT BEFORE USING THE BOT.
+THANKS FOR USING MY BOT.
